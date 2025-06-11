@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Benoît DUMONT
+N:DUMONT;Benoît;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:benoit.dumont@ihope.fr
+TEL;TYPE=WORK:+33 4 69 16 65 74
+item1.TEL:+33 4 69 16 65 67
+item1.X-ABLabel:Secrétariat
+TEL;TYPE=CELL:+ 336 67 23 38 95
+item2.ADR:;;1 Pl. Professeur Joseph Renaut;Lyon;;69008;FR;1 Pl. Professeur 
+ Joseph Renaut\n69008 Lyon\nFR
+item2.X-ABLabel:
+ORG: Centre Léon Bérard
+TITLE:Pédiatre Oncologue 
+item3.URL:https\://www.ihope.fr/
+item3.X-ABLabel:
+NOTE:Senior consultant\, Neuroblastoma\, renal tumors\, retinoblastoma
+CATEGORIES:myContacts
+END:VCARD
