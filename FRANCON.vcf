@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Justine FRANCON
+N:FRANCON;Justine;;;
+item1.EMAIL;TYPE=INTERNET:justine.francon@ovipur.com
+item1.X-ABLabel:
+item2.TEL:07 88 52 48 09
+item2.X-ABLabel:
+ORG:GROUPE AVIpur
+TITLE:Responsable Opérationnel
+CATEGORIES:myContacts
+END:VCARD
