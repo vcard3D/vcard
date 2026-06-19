@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Antonin Jay
+N:Jay;Antonin;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:antonin.jay@ovipur.com
+TEL;TYPE=WORK:06 89 34 43 37
+item1.ADR:;;Rue de l'Industrie;Saint-Cyr;;07430;FR;Rue de l'Industrie\n0743
+ 0 Saint-Cyr\nFR
+item1.X-ABLabel:
+ORG:Ovipur
+TITLE:Responsable opérationnel\, Développement commercial & scientifique 
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzFyKemnNZm4YxjvLiu9tJ
+ MLznJkw8gT7laGf3g2l16mb96NQ9rI
+CATEGORIES:myContacts,starred
+END:VCARD
