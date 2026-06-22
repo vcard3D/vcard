@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Gérald SAUREL
+N:SAUREL; Gérald;;;
+item1.EMAIL;TYPE=INTERNET:gerald.saurel@avipur.com
+item1.X-ABLabel:
+item2.TEL:06 72 31 66 64
+item2.X-ABLabel:
+item3.TEL:04 75 67 64 72
+item3.X-ABLabel:
+ORG:AVIpur ARDECHE / HAUTE-LOIRE
+TITLE:Technico-Commercial
+CATEGORIES:myContacts
+END:VCARD
