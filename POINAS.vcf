@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:GUILLAUME POINAS
+N:POINAS;GUILLAUME ;;;
+item1.EMAIL;TYPE=INTERNET:guillaume.poinas@avipur.com
+item1.X-ABLabel:
+item2.TEL:07 43 40 13 53
+item2.X-ABLabel:
+item3.TEL:04 76 73 22 95
+item3.X-ABLabel:
+ORG:AVIpur DAUPHINE
+TITLE:Technico-Commercial
+CATEGORIES:myContacts
+END:VCARD
