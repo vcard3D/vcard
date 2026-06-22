@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Thomas CHAUMETTE
+N:CHAUMETTE;Thomas;;;
+item1.EMAIL;TYPE=INTERNET:thomas.chaumette@avipur.com
+item1.X-ABLabel:
+item2.TEL:06 89 55 94 66
+item2.X-ABLabel:
+item3.TEL:04 50 22 53 17
+item3.X-ABLabel:
+ORG:AVIpur 2 SAVOIE
+TITLE:Commercial
+CATEGORIES:myContacts
+END:VCARD
