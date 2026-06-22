@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Fabrice DEVILLE
+N:DEVILLE;Fabrice;;;
+item1.EMAIL;TYPE=INTERNET:fabrice.deville@avipur.com
+item1.X-ABLabel:
+item2.TEL:07 88 60 05 95
+item2.X-ABLabel:
+item3.TEL:04 50 22 53 17
+item3.X-ABLabel:
+ORG:AVIpur 2 SAVOIE
+TITLE:Commercial
+CATEGORIES:myContacts
+END:VCARD
