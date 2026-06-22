@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Benoît CHAIZE
+N:CHAIZE; Benoît;;;
+item1.EMAIL;TYPE=INTERNET:benoit.chaize@avipur.com
+item1.X-ABLabel:
+item2.TEL:06 83 50 99 53
+item2.X-ABLabel:
+item3.TEL:04 75 67 64 72
+item3.X-ABLabel:
+ORG:AVIpur ARDECHE / HAUTE-LOIRE
+TITLE:Technico-Commercial
+CATEGORIES:myContacts
+END:VCARD
