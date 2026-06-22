@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Mathis BARBERET
+N:BARBERET; Mathis;;;
+item1.EMAIL;TYPE=INTERNET:mathis.barberet@avipur.com
+item1.X-ABLabel:
+item2.TEL:06 83 85 09 38
+item2.X-ABLabel:
+item3.TEL:04 77 96 33 65
+item3.X-ABLabel:
+ORG:AVIpur LOIRE-PUY-DE-DOME
+TITLE:Commercial
+CATEGORIES:myContacts
+END:VCARD
