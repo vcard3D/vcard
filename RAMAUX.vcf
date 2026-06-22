@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Alexis RAMAUX
+N:RAMAUX;Alexis;;;
+item1.EMAIL;TYPE=INTERNET:alexis.ramaux@avipur.com
+item1.X-ABLabel:
+item2.TEL:06 03 29 39 13
+item2.X-ABLabel:
+item3.TEL:03 81 80 15 06
+item3.X-ABLabel:
+ORG:AVIpur FRANCHE COMTE
+TITLE:Commercial
+CATEGORIES:myContacts
+END:VCARD
