@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Erwan EVEN
+N:EVEN;Erwan;;;
+item1.EMAIL;TYPE=INTERNET:erwan.even@avipur.com
+item1.X-ABLabel:
+item2.TEL:06 71 94 73 35
+item2.X-ABLabel:
+item3.TEL:04 50 22 53 17
+item3.X-ABLabel:
+ORG:AVIpur 2 SAVOIE
+TITLE:Commercial
+CATEGORIES:myContacts
+END:VCARD
